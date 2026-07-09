@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.hero {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.img-container {
+	object-fit: cover;
+}
+
+.side-section {
+	text-align: center;
+}
+
+.side-section p{
+	color: grey;
+}
+
+.side-section button {
+	color: white;
+	padding: 20px;
+	border-radius: 10px;
+	background-color: red;
+	border: none;
+}
+
+
+
+
